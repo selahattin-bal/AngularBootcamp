@@ -1,18 +1,18 @@
 # AngularBootcamp
 
-1.Hafta1-odev1-assingment </br>
+<strong>1.Hafta1-odev1-assingment</strong> </br>
 JS two sum-up coding challange </hr>
 
-2.Hafta1-odev2-assingment </br>
+<strong>2.Hafta1-odev2-assingment</strong> </br>
 JS tic-tac-toe application</hr>
 
-3.Hafta2-odev-assingment </br>
+<strong>3.Hafta2-odev-assingment</strong> </br>
 Basic JS async function application with using promises.</hr>
 
-4.Hafta3-odev-assingment </br>
+<strong>4.Hafta3-odev-assingment</strong> </br>
 Reactiveform, sign-up and login with some validations </hr>
 
 
-5.Hafta4-odev-assingment </br>
+<strong>5.Hafta4-odev-assingment</strong> </br>
 -Angular e-commerce web application
 Responsive web design with bootstrap, sign-up, login, buy a product, checkout and logout.
