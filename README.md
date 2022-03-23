@@ -1,7 +1,7 @@
 # AngularBootcamp
 
-1.Hafta1-odev1-assingment
-
+1.Hafta1-odev1-assingment </br>
+JS two sum-up coding challange
 2.Hafta1-odev2-assingment
 JS tic-tac-toe application
 
