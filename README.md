@@ -1,6 +1,6 @@
 # AngularBootcamp
 
-<strong>1.Hafta1-odev1-assingment</strong> </br>
+<h1>1.Hafta1-odev1-assingment</h1> </br>
 JS two sum-up coding challange </hr>
 
 <strong>2.Hafta1-odev2-assingment</strong> </br>
